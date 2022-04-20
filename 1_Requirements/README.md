@@ -20,7 +20,6 @@
 |01|On the simulide on version where some requirements are not available|Solved in the connect session|
 |02|Issues in workflows on make file|Solved by taking out my files from the implementation part and I kept them in separate files|
 
-
 # Swot Analysis
 STRENGTHS
 
@@ -28,17 +27,14 @@ STRENGTHS
 *   We can easily change the temperature.
 *   Low cost
 
-
 WEAKNESS
 
 *   It's applicable to countries which are having low temperature.
-
 
 OPPURTUNITIES
 
 *   It can be implemented by replacing heater with AC
 
-
 THREATS
 
-*  Not suitable for high temperature places.  
+*   Not suitable for high temperature places.  
