@@ -2,7 +2,6 @@
 
 The buttons have to be switched on before the app starts working. Potentiometer acts as temperature sensor. It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope. As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
-## Contributors List and Summary
 |Feature_Id|Feature|
 |:--------:|:---------:|
 |F_01|Tests if button is on or not|
@@ -56,9 +55,7 @@ THREATS
 | HLR5_LLR2   | SimulIDE |
 
 # ACTIVITY
-
 ![activity](https://user-images.githubusercontent.com/101094751/164243917-1e728103-d811-4877-b72a-4358b188d443.png)
 
 # CONDITIONS
-
 ![condtion](https://user-images.githubusercontent.com/101094751/164243958-8ce6b071-8fe2-4ab8-b14a-7feee5d2e480.png)
