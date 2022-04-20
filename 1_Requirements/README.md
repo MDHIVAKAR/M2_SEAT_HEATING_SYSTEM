@@ -7,7 +7,7 @@
 
 
 
-4W'S and 1-H
+# 4W'S and 1-H
 *   What- This is a seat heating system.
 *   Why- This is helpful in soothe aching backs and shoulders
 *   Where- It can be used for back pains suffers find that turning on their heated seats.
