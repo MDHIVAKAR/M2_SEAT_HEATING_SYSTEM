@@ -1,6 +1,5 @@
 /**
  * @file main.c
- * @author SHIRISHAMEDA
  * @brief main file for all activities
  * @version 0.1
  * @date 2021-04-29
