@@ -7,3 +7,4 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 *  Codacy - Static Analysis ![Codacy Badge](https://app.codacy.com/project/badge/Grade/93dd9ec5e9f347a5b89c972d03439883)
 
 ## Cppcheck badges
+[![Cpp-Check](https://github.com/MDHIVAKAR/M2_SEAT_HEATING_SYSTEM/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MDHIVAKAR/M2_SEAT_HEATING_SYSTEM/actions/workflows/c-cpp.yml)
