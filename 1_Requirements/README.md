@@ -1,14 +1,11 @@
 ## Introduction
 The buttons have to be switched on before the app starts working. Potentiometer acts as temperature sensor. It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope. As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
-## Contributors List and Summary
 |Feature_Id|Feature|
 |:--------:|:---------:|
 |F_01|Tests if button is on or not|
 |F_02|Converts the binary to adc |
 |F_03|Displays the temperature on the serial monitor|
-
-
 
 # 4W'S and 1-H
 *   What- This is a seat heating system.
