@@ -1,15 +1,6 @@
 #ifndef _USER_UTILS_H_
 #define _USER_UTILS_H_
-/**
- * @file user_utils.h
- * @author JAHNAVI JHA
- * @brief User defined utilities used 
- * @version 0.1
- * @date 2021-04-28
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include "led.h"
 #include <util/delay.h>
 
