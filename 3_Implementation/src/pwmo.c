@@ -1,13 +1,3 @@
-/**
- * @file pwmo.c
- * @author JAHNAVI JHA
- * @brief activity 3
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #include<avr/io.h>
 #include<string.h>
 
