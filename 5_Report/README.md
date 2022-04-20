@@ -58,6 +58,7 @@ THREATS
 # ACTIVITY
 
 ![activity](https://user-images.githubusercontent.com/101094751/164243917-1e728103-d811-4877-b72a-4358b188d443.png)
+
 # CONDITIONS
 
 ![condtion](https://user-images.githubusercontent.com/101094751/164243958-8ce6b071-8fe2-4ab8-b14a-7feee5d2e480.png)
