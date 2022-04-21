@@ -32,7 +32,7 @@ void USART_write(char data)  //write
 void write_string(char *string)
 {
     int count;
-    int len_string = strlen(string);
+    /* int len_string = strlen(string);*/
     for(count = 0 ; count < len_string; count++)
     {
         USART_write(*(string+count));
