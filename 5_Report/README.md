@@ -15,6 +15,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 *   When- The heated seats can actually conserve energy(gas) you might not need the heater on at all if you have heated your seats.
 *   How- It will also dissipate some heat into air ,warming the vehicle as a whole.
 
+
 # Swot Analysis
 STRENGTHS
 
@@ -54,8 +55,8 @@ THREATS
 | HLR4_LLR1   | Code Blocks with AVR GCC compiler |
 | HLR5_LLR2   | SimulIDE |
 
-# ACTIVITY
+*   ACTIVITY
 ![activity](https://user-images.githubusercontent.com/101094751/164243917-1e728103-d811-4877-b72a-4358b188d443.png)
 
-# CONDITIONS
+*   CONDITIONS
 ![condtion](https://user-images.githubusercontent.com/101094751/164243958-8ce6b071-8fe2-4ab8-b14a-7feee5d2e480.png)
