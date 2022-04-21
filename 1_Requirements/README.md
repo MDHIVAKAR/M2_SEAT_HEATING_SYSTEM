@@ -20,7 +20,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 |01|On the simulide on version where some requirements are not available|Solved in the connect session|
 |02|Issues in workflows on make file|Solved by taking out my files from the implementation part and I kept them in separate files|
 
-# Swot Analysis
+## Swot Analysis
 STRENGTHS
 
 *   It's user friendly.
