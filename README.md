@@ -9,3 +9,5 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 
 ## Cppcheck badges
 [![Cpp-Check](https://github.com/MDHIVAKAR/M2_SEAT_HEATING_SYSTEM/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MDHIVAKAR/M2_SEAT_HEATING_SYSTEM/actions/workflows/c-cpp.yml)
+
+[![Analysis](https://github.com/MDHIVAKAR/M2_SEAT_HEATING_SYSTEM/actions/workflows/analysis.yml/badge.svg)](https://github.com/MDHIVAKAR/M2_SEAT_HEATING_SYSTEM/actions/workflows/analysis.yml)
